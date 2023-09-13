@@ -1,0 +1,22 @@
+.botao{
+background-color: rgb(22, 38, 182);
+color: rgb(231, 226, 225);
+text-decoration: none;
+padding: 10px;
+border-radius: 20px;
+}
+
+body {
+    text-align: center;
+}
+
+.cabecalho{
+    background-color: coral;
+}
+
+.cabecalho-titulo {
+    font-size: 36px;
+    font-weight: 500;
+    padding: 12px;
+    text-align: center;    
+}
